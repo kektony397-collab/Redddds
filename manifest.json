@@ -1,0 +1,19 @@
+
+{
+  "name": "Digital GPS Speedometer & Fuel Manager",
+  "short_name": "GPS Speedo",
+  "description": "A modern, offline-first PWA that provides a high-fidelity digital speedometer, trip tracking, and comprehensive fuel management.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121212",
+  "theme_color": "#1e1e1e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
