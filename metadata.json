@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Digital GPS Speedometer & Fuel Manager",
+  "description": "A modern, offline-first Progressive Web App (PWA) that provides a high-fidelity digital speedometer, trip tracking, and comprehensive fuel management. It leverages GPS for real-time speed data, stores all user data client-side in IndexedDB, and includes a fuel calculator for economic analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
